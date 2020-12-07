@@ -1,1 +1,1 @@
-This above project is done by me as an assignment of an online course curriculum.
+Donor Choose is a text data and Naïve Bayes works well with text data hence NB is used as classification model. As this data set also has some numerical and categorical features, Multinomial NB was used. To vectorise the text data bag of words and tf-idf were used and AUC score for both vectorising technique is compared.
